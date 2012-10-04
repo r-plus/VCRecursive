@@ -1,0 +1,9 @@
+Package: jp.r-plus.vcrecursive
+Name: VCRecursive
+Depends: mobilesubstrate, firmware (>= 4.0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Improve recursiveDescription method
+Maintainer: r_plus
+Author: steipete & r_plus
+Section: Development
