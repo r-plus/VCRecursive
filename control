@@ -3,7 +3,8 @@ Name: VCRecursive
 Depends: mobilesubstrate, firmware (>= 4.0)
 Version: 0.1
 Architecture: iphoneos-arm
-Description: Improve recursiveDescription method
+Description: Improve recursiveDescription
 Maintainer: r_plus
 Author: steipete & r_plus
 Section: Development
+Tag: role::hacker
